@@ -21,7 +21,7 @@ body {
 @media (max-width : 400px) {
     .h1 {
         font-size: 70px;
-        margin-left: 90px;
+        margin-left: 150px;
     }
 }
 .freedom {
@@ -37,7 +37,7 @@ body {
 }
 @media (max-width : 400px) {
     .freedom {
-        margin-left: 90px;
+        margin-left: 150px;
         font-size: 20px;
     }
 }
@@ -55,7 +55,7 @@ body {
 }
 @media (max-width : 400px) {
     .otherwise {
-        margin-left: 90px;
+        margin-left: 150px;
     }
 }
 .options {
@@ -71,7 +71,7 @@ body {
 }
 @media (max-width : 400px) {
     .options {
-        margin-left: 10px;
+        margin-left: 150px;
         font-size: 40px;
         width: 100%;
     }
@@ -264,7 +264,7 @@ body {
 }
 @media (max-width : 400px) {
     .chance {
-        padding-left: 120px;
+        padding-left: 150px;
         font-size: 20px;
     }
 }
@@ -282,7 +282,7 @@ body {
 }
 @media (max-width : 400px) {
     .AI {
-        padding-left: 120px;
+        padding-left: 150px;
         font-size: 15px;
     }
 }
@@ -299,7 +299,7 @@ body {
 }
 @media (max-width : 400px) {
     .what {
-        padding-left: 120px;
+        padding-left: 150px;
         font-size: 12px;
     }
 }
@@ -315,7 +315,7 @@ body {
 }
 @media (max-width : 590px) {
     .must {
-        padding-left: 120px;
+        padding-left: 150px;
         font-size: 20px;
     }
 }
@@ -405,7 +405,7 @@ body {
         text-align: center;
         font-size: 33px;
         padding-top: 50px;
-        padding-left: 150px;
+        margin-left: 150px;
     }
 }
 .while {
@@ -433,7 +433,7 @@ body {
         text-align: center;
         font-size: 18px;
         padding-top: 30px;
-        padding-left: 150px;
+        margin-left: 150px;
     }
 }
 .books {
